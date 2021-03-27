@@ -1,0 +1,30 @@
+_G.Antikick = MYPENIS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+local plr = game.Players.LocalPlayer
+local UserInputService = game:GetService("UserInputService")
+
+while _G.Antikick == MYPENIS do
+function PlaceholderV2()
+   plr:Kick() --antikick
+    wait()
+end
+PlaceholderV2()
+wait()
+end
+
+loadstring(game:HttpGet('1/1/1/1[1][0][1]'))()
